@@ -1,19 +1,28 @@
 {
   "SportStreams":[
   {
-    _id: '{{objectId()}}',
+    id: '1',
     country: 'Pakistan',
-    Radio: 'FM 106.2',
-    Radioimg: 'https://mytuner.global.ssl.fastly.net/media/tvos_radios/cudz72rabvzk.png',
-    Radiostream: 'https://prod-34-145-122-31.wostreaming.net/humfm-fm1062mp3-ibc1?session-id=b2d9a776b22411ad9abc3cce3febdc01'
+    Channel: 'PTV SPORTS',
+    Channelimg: 'https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fe%2Fe4%2FPTV_Sports.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPTV_Sports&tbnid=ErXBS4aPiejdmM&vet=12ahUKEwj67e-L5Zn2AhV0-IsKHdz5CLgQMygVegUIARDzAQ..i&docid=Onoy1WBMcscbJM&w=300&h=300&q=ptv%20sports&ved=2ahUKEwj67e-L5Zn2AhV0-IsKHdz5CLgQMygVegUIARDzAQ',
+    rtmpstreamlink: 'http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8'
    
   },
   {
-    _id: '{{objectId()}}',
+    id: '2',
     country: 'Pakistan',
-    Radio: 'FM 106.2',
-    Radioimg: 'https://mytuner.global.ssl.fastly.net/media/tvos_radios/cudz72rabvzk.png',
-    Radiostream: 'https://prod-34-145-122-31.wostreaming.net/humfm-fm1062mp3-ibc1?session-id=b2d9a776b22411ad9abc3cce3febdc01'
+   Channel: 'PTV SPORTS',
+    Channelimg: 'https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.ptvsportstv.com%2Fwp-content%2Fuploads%2F2021%2F12%2F256x256bb.jpg&imgrefurl=https%3A%2F%2Fwww.ptvsportstv.com%2F&tbnid=8K048uAfkRG4UM&vet=12ahUKEwj67e-L5Zn2AhV0-IsKHdz5CLgQMygjegUIARCUAg..i&docid=v5deAQ1OWt23BM&w=256&h=256&q=ptv%20sports&ved=2ahUKEwj67e-L5Zn2AhV0-IsKHdz5CLgQMygjegUIARCUAg',
+    rtmpstreamlink: 'http://watch.emasti.pk/stream/ptvsports/tracks-v1a1/mono.m3u8'
+   
+  }
+    ,
+    {
+    id: '3',
+    country: 'Pakistan',
+   Channel: 'PTV SPORTS',
+    Channelimg: 'https://www.google.com/imgres?imgurl=https%3A%2F%2Fdonpk.com%2Fwp-content%2Fuploads%2F2014%2F03%2FPTV-Sports.jpg&imgrefurl=https%3A%2F%2Fdonpk.com%2Fptv-sports-live-hd%2F&tbnid=ejrwMw6m-FF9_M&vet=12ahUKEwj67e-L5Zn2AhV0-IsKHdz5CLgQMyg5egQIARBf..i&docid=RZ0025ZeDjDoKM&w=330&h=200&q=ptv%20sports&ved=2ahUKEwj67e-L5Zn2AhV0-IsKHdz5CLgQMyg5egQIARBf',
+    rtmpstreamlink: 'https://2nbyj2bbd53k-hls-live.5centscdn.com/PTV/Sports.stream/playlist.m3u8'
    
   }
 
